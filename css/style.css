@@ -1,0 +1,104 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../image/netflix\ background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.nevbar {
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 14%;
+}
+img.logo {
+    width: 88%;
+}
+.space{
+    width: 70%;
+}
+.selecttag {
+    width: 101px;
+    /* font-size: 16px; */
+}
+button.sign {
+    font-size: 14px;
+    padding: 7px 16px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.container {
+    /* margin: 0 auto; */
+    color: white;
+}
+h1.heading {
+    width: 40%;
+    margin: 0 auto;
+    font-size: 45px;
+    padding-top: 123px;
+}
+h1.heading3 {
+    width: 40%;
+    margin: 0 auto;
+    padding-left: 81px;
+    font-size: 45px;
+}
+h3.heading2 {
+    font-size: 23px;
+    margin: 0 auto;
+    width: 40%;
+    padding-left: 67px;
+}
+p.para {
+    width: 45%;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+input[type="email"] {
+    margin: 0 auto;
+    width: 21%;
+}
+.hi {
+    margin: 0 auto;
+    width: 45%;
+}
+input[type="email"] {
+    margin: 0 auto;
+    width: 90%;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+.hi {
+    margin: 0 auto;
+    width: 45%;
+    padding-top: 20px;
+}
+button.getstart {
+    font-size: 13px;
+    padding: 11px 24px;
+    background-color: red;
+    color: white;
+}.hii2{
+    width: 100%;
+    display: flex;
+
+}
+.level {
+    width: 71%;
+}
+select {
+    font-size: 14px;
+    padding: 6px;
+    border-radius: 6px;
+    background-color: transparent;
+    color: white;
+}
